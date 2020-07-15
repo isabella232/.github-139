@@ -1,2 +1,2 @@
 # .github
-Organization settings
+Default organization policies
