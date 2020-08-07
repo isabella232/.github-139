@@ -1,18 +1,18 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the hapi project to help us create a safe and productive experiences for everyone, regardless of gender, gender identity, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in Sideway sponsored projects to help us create a safe and productive experiences for everyone, regardless of gender, gender identity, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer, but nevertheless, the project maintainers have the final say even when you disagree.
 
 ## Disclaimer
 
-The hapi organization's repositories, websites, Slack channels, and other venues of interaction are not public places, even when they are hosted by public services. You are a guest and expected to behave as if you are visiting someone else's home. In this case, the project maintainers' home.
+The Sideway organization's repositories, websites, Slack channels, and other venues of interaction are not public places, even when they are hosted by public services. You are a guest and expected to behave as if you are visiting someone else's home. In this case, the project maintainers' home.
 
-The hapi project is managed under the [BDFL model](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life). If you are unwilling to accept the final decision of the maintainers, your only acceptable recourse is to leave. The code is licensed under a liberal open source license allowing you to fork and make the changes you wish elsewhere.
+Sideway open source projects are managed under the [BDFL model](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life). If you are unwilling to accept the final decision of the maintainers, your only acceptable recourse is to leave. The code is licensed under a liberal open source license allowing you to fork and make the changes you wish elsewhere.
 
 ## Scope
 
-This policy applies to any interaction with other hapi community members. Whether on GitHub, Twitter, IRC, Slack, or any other venue, your actions matter. We expect all members of the hapi community, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi project or not.
+This policy applies to any interaction with other Sideway open source community members. Whether on GitHub, Twitter, IRC, Slack, or any other venue, your actions matter. We expect all members of the hapi community, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi project or not.
 
 Expressing opinions which may offend others in public or in private may trigger a policy violation review. Our goal is to provide a safe environment and when a conflict arises between one person's freedom of expression and another's sense of safety, we will take the necessary actions to ensure the project remains a safe environment for all.
 
@@ -41,4 +41,4 @@ If a community member engages in unacceptable behavior, the maintainers may take
 
 ## Contact Information
 
-You may contact one or more of the listed [team members](https://github.com/orgs/hapijs/people) or support@sideway.com.
+You may contact one or more of the listed [team members](https://github.com/orgs/sideway/people) or support@sideway.com.
