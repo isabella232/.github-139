@@ -11,18 +11,12 @@ assignees: ''
   ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
   You must complete this entire issue template to receive support. You MUST NOT remove, change, or replace the template with your own format. A missing or incomplete report will cause your issue to be closed without comment. Please respect the time and experience that went into this template. It is here for a reason. Thank you!
   ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
--->
 
-#### Support plan
 
-<!--
 We are here to help!
 
 Community based support is, by its nature, limited to available community members able to help. Most community support issues are resolved within 2 weeks. Before submitting an issue, please review the various support options available at https://hapi.dev/support/. That page includes useful information about different ways to ask questions.
 -->
-
-* *is this issue currently blocking your project?* (yes/no):
-* *is this issue affecting a production system?* (yes/no):
 
 #### Context
 
